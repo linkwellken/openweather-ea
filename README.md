@@ -30,10 +30,6 @@
     },
     
 ```
-# Chainlink External Adapters (JavaScript)
-
-This repository contains the source for Chainlink external adapters. Each adapter must document its own required parameters and output format.
-
 ## Requirements
 
 - Yarn
