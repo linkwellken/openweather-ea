@@ -1,3 +1,5 @@
+// Tests not configured for this adapter
+
 import { assert } from 'chai'
 import { Requester } from '@chainlink/external-adapter'
 import { assertSuccess, assertError } from '@chainlink/adapter-test-helpers'

@@ -43,6 +43,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
+    "@chainlink/adapter-test-helpers": "^0.0.1",
     "dotenv": "^8.2.0"
   }
 }
